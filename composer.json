@@ -1,0 +1,21 @@
+{
+    "name": "pear2007/yii2-pears",
+    "description": "a test  extensions",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pear2007",
+            "email": "ncplum@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pear2007\\pears\\": ""
+        }
+    }
+}
